@@ -1,1 +1,2 @@
-"# Site_carrosel_Minecraft" 
+# Um simples carrosel que fiz em javascript 
+## Baseado em informações sobre o Minecraft
